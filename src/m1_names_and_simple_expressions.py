@@ -1,25 +1,6 @@
 answer = 2 + 5
 print(answer * 1000)
 
-solution = 77 - 13 / 2
-solution1 = (77 - 13) / 2
-solution2 = 77 - (13 / 2)
-print(solution)
-print(solution1)
-print(solution2)
-
-exponential = 5 ** 2
-print(exponential)
-
-result = 7 / 2
-print(result)
-
-quotient = 7 // 2
-print(quotient)
-
-remainder = 7 % 2
-print(remainder)
-
 ###############################################################################
 # DONE: 1. (1 pt)
 #   Read the 2 lines of code ABOVE this _TODO_.  That code:
@@ -63,6 +44,13 @@ print(remainder)
 #   Once you have done this, then change the above _TODO_ to DONE.
 ###############################################################################
 
+solution = 77 - 13 / 2
+solution1 = (77 - 13) / 2
+solution2 = 77 - (13 / 2)
+print(solution)
+print(solution1)
+print(solution2)
+
 ###############################################################################
 # DONE: 3. (1 pt)
 #   Immediately below this _TODO_, write code that:
@@ -71,6 +59,9 @@ print(remainder)
 #     - Prints the result
 #
 ###############################################################################
+
+exponential = 5 ** 2
+print(exponential)
 
 ###############################################################################
 # DONE: 4. (1 pt)
@@ -84,3 +75,12 @@ print(remainder)
 #
 #   Once you have done this, then change the above _TODO to DONE.
 ###############################################################################
+
+result = 7 / 2
+print(result)
+
+quotient = 7 // 2
+print(quotient)
+
+remainder = 7 % 2
+print(remainder)
