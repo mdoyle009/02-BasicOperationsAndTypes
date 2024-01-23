@@ -1,8 +1,12 @@
 answer = 2 + 5
 print(answer * 1000)
 
-solution = 77 - (13/2)
+solution = 77 - 13 / 2
+solution1 = (77 - 13) / 2
+solution2 = 77 - (13 / 2)
 print(solution)
+print(solution1)
+print(solution2)
 
 exponential = 5 ** 2
 print(exponential)
